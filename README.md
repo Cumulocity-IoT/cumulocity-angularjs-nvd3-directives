@@ -1,5 +1,7 @@
 <link href="http://nvd3.org/src/nv.d3.css" rel="stylesheet">
 
+## A fork made to get rid of the svg css selector from nvd3 v1.1.15-beta
+
 ##[Angular.js](http://angularjs.org/) Directives for [nvd3.js](http://www.nvd3.org), [d3.js](http://www.d3js.org) charts
 
 [![Build Status](https://travis-ci.org/angularjs-nvd3-directives/angularjs-nvd3-directives.png?branch=master)](https://travis-ci.org/angularjs-nvd3-directives/angularjs-nvd3-directives)
@@ -40,16 +42,16 @@
 [More Examples](http://angularjs-nvd3-directives.github.io/angularjs-nvd3-directives)
 
 
-## Basic Quick Start 
+## Basic Quick Start
 
 ### 1. Install dependencies in your application with [bower](http://bower.io/)
 
 Install [these](http://bower.io/#installing-bower) if you don't already have it.
 
 #### [Angular.js](http://angularjs.org/)
-    
+
     bower install angular --save
-    
+
 #### [d3.js](http://www.d3js.org)
 
     bower install d3 --save
@@ -61,7 +63,7 @@ Install [these](http://bower.io/#installing-bower) if you don't already have it.
 #### [Angularjs-nvd3-Directives.js](http://angularjs-nvd3-directives.github.io/angularjs-nvd3-directives)
 
     bower install angularjs-nvd3-directives --save
-    
+
 ### 2. Create basic [Angular.js](http://angularjs.org/) application
 
 Create a html page and start with the following code.  For [d3.js](http://www.d3js.org) it is important that the page include ```<meta charset="utf-8">```, otherwise you will get error messages about special characters.
