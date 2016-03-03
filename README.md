@@ -1,5 +1,3 @@
-<link href="http://nvd3.org/src/nv.d3.css" rel="stylesheet">
-
 ## A fork made to get rid of the svg css selector from nvd3 v1.1.15-beta
 
 ##[Angular.js](http://angularjs.org/) Directives for [nvd3.js](http://www.nvd3.org), [d3.js](http://www.d3js.org) charts
